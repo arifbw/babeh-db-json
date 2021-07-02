@@ -38,6 +38,18 @@
             "link": "https://www.youtube.com/watch?v=6gsUpu5l06E"
         }
     ],
+    "podcast": [
+        {
+            "judul": "podcast 1",
+            "durasi": "5:40",
+            "link": "test.com"
+        },
+        {
+            "judul": "podcast 2",
+            "durasi": "2:31",
+            "link": "test.com"
+        }
+    ],
     "lapak": [
         {
             "nama": "Barang 1",
