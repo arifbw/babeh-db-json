@@ -1,14 +1,53 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "kata_babe": [
+        {
+            "kata": "lorem ipsum"
+        },
+        {
+            "kata": "asdasd"
+        },
+        {
+            "kata": "asdasd"
+        },
+        {
+            "kata": "asdasds"
+        },
+        {
+            "kata": "asdasd"
+        }
+    ],
+    "video": [
+        {
+            "nama": "AJIIIBBB....!!! INI DIA 3 JURUS BABE HAIKAL SUPAYA KAGAK BAPERAN",
+            "link": "https://www.youtube.com/watch?v=_BPOCUnhgiE"
+        },
+        {
+            "nama": "3 TIPS BABE HAIKAL: DAHSYAT...! TRICK MENYELEMATKAN RUMAHTANGGA",
+            "link": "https://www.youtube.com/watch?v=OEPQWR9j7S0"
+        },
+        {
+            "nama": "3 TIPS BABE HAIKAL MENGHADAPI NEW NORMAL",
+            "link": "https://www.youtube.com/watch?v=hts3i5LgVVg"
+        },
+        {
+            "nama": "3Tips Babe Haikal Hassan: Babe Bocorin Rahasia Cara Taklukan Suami...!",
+            "link": "https://www.youtube.com/watch?v=njZmg-Pazvs"
+        },
+        {
+            "nama": "3Tips Babe Haikal: Kiat Mencapai Keinginan",
+            "link": "https://www.youtube.com/watch?v=6gsUpu5l06E"
+        }
+    ],
+    "lapak": [
+        {
+            "nama": "Barang 1",
+            "harga": "99000",
+            "deskripsi": "test aja"
+        },
+        {
+            "nama": "Barang 2",
+            "harga": "45000",
+            "deskripsi": "test barang 2"
+        }
+    ]
 }
